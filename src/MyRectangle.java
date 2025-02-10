@@ -1,5 +1,5 @@
 // Problem#2
-//The MyRectangle and MyPoint Classes
+//The MyRectangle with MyPoint Classes
 
 public class MyRectangle {
     private MyPoint topLeft;
