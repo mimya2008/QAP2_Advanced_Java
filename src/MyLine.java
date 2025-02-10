@@ -1,3 +1,5 @@
+// Problem#1:
+//The MyLine and MyPoint Classes
 public class MyLine {
     private MyPoint begin = new MyPoint();
     private MyPoint end = new MyPoint();
