@@ -1,3 +1,5 @@
+// This test cases for My rectangle
+
 public class TestMyRectangle {
     public static void main(String[] args) {
         // MyPoint instances
